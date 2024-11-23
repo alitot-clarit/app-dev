@@ -1,6 +1,6 @@
 ## My favorite movie is "The Notebook" from 2004
 
-	![The Notebook]([image.jpg](https://www.imdb.com/title/tt0332280/mediaviewer/rm2532203265/?ref_=tt_ov_i))
+	![The Notebook](https://www.imdb.com/title/tt0332280/mediaviewer/rm2532203265/?ref_=tt_ov_i)
 
 It was starred by Ryan **Gosling and Rachel McAdams**
 
